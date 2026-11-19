@@ -252,6 +252,14 @@ Tavro supports command-line parameters and file-based configuration (`configs/ta
 
 ---
 
+## 👤 Author & Maintainer
+
+**PALLEM DINESH KUMAR REDDY**
+- **GitHub:** [@dineshreddy0204](https://github.com/dineshreddy0204)
+- **Repository:** [https://github.com/dineshreddy0204/TAVRO-MAIN](https://github.com/dineshreddy0204/TAVRO-MAIN)
+
+---
+
 ## 📄 License
 
-This project is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for complete terms.
+This project is licensed under the **Apache License 2.0** — Copyright © 2026 **PALLEM DINESH KUMAR REDDY**. See the [LICENSE](LICENSE) file for complete terms.
