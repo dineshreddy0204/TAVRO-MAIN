@@ -1,7 +1,5 @@
 <div align="center">
-  <img alt="Tavro Logo" src="assets/Tavro_Horizontal_Logo.png" width="450">
-
-  <h3>Personal AI, On Personal Devices</h3>
+  <img alt="Tavro Logo" src="assets/tavro_banner.png" width="600">
 
   <p>
     <a href="https://github.com/dineshreddy0204/TAVRO-MAIN"><img src="https://img.shields.io/badge/GitHub-TAVRO--MAIN-181717?logo=github" alt="Repo"></a>
@@ -11,12 +9,6 @@
     <img src="https://img.shields.io/badge/platform-Windows%20ARM64%20%7C%20macOS%20%7C%20Linux-0078D4?logo=windows&logoColor=white" alt="Platform">
     <img src="https://img.shields.io/badge/license-Apache%202.0-22c55e" alt="License">
   </p>
-</div>
-
----
-
-<div align="center">
-  <img alt="Tavro Demo Reel" src="assets/tavro_demo_reel.webp" width="80%">
 </div>
 
 ---
