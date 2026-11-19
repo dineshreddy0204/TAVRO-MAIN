@@ -1,0 +1,32 @@
+[package]
+name = "tavro-python"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "tavro_rust"
+crate-type = ["cdylib"]
+
+[dependencies]
+tavro-core = { path = "../tavro-core" }
+tavro-engine = { path = "../tavro-engine" }
+tavro-security = { path = "../tavro-security" }
+tavro-tools = { path = "../tavro-tools" }
+tavro-agents = { path = "../tavro-agents" }
+tavro-traces = { path = "../tavro-traces" }
+tavro-telemetry = { path = "../tavro-telemetry" }
+tavro-learning = { path = "../tavro-learning" }
+tavro-mcp = { path = "../tavro-mcp" }
+tavro-sessions = { path = "../tavro-sessions" }
+tavro-workflow = { path = "../tavro-workflow" }
+tavro-skills = { path = "../tavro-skills" }
+tavro-recipes = { path = "../tavro-recipes" }
+tavro-templates = { path = "../tavro-templates" }
+tavro-a2a = { path = "../tavro-a2a" }
+tavro-scheduler = { path = "../tavro-scheduler" }
+pyo3 = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+tokio = { workspace = true }
+once_cell = { workspace = true }
+parking_lot = { workspace = true }
